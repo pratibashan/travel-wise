@@ -3,17 +3,15 @@
 ## Screenshots
 
 Flight Search
-![Store Landing Page](https://imgur.com/BAnXRdd)
+![Store Landing Page](https://imgur.com/BAnXRdd.png)
 Weather of Destination
-![Weather of Destination](https://imgur.com/L9gDrei)
+![Weather of Destination](https://imgur.com/L9gDrei.png)
 Flights
-![Flights](https://imgur.com/DkkBZ3i)
+![Flights](https://imgur.com/DkkBZ3i.png)
 Flight Details
-![Flight Details](https://imgur.com/OIsBPEp)
+![Flight Details](https://imgur.com/OIsBPEp.png)
 Trip Essentials Amazon
-![Trip Essentials Amazon](https://imgur.com/1usHa29)
-Cart
-![Cart](https://www.dropbox.com/s/f5olanrtrpva548/Screen%20Shot%202018-07-13%20at%209.46.13%20AM.png?raw=1)
+![Trip Essentials Amazon](https://imgur.com/1usHa29.png)
 
 ## What It Is
 
