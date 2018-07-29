@@ -1,18 +1,54 @@
 # TRAVEL WISE
 
+## Screenshots
 
-### Demo Videos
+Flight Search
+![Store Landing Page](https://imgur.com/BAnXRdd)
+Weather of Destination
+![Weather of Destination](https://imgur.com/L9gDrei)
+Flights
+![Flights](https://imgur.com/DkkBZ3i)
+Flight Details
+![Flight Details](https://imgur.com/OIsBPEp)
+Trip Essentials Amazon
+![Trip Essentials Amazon](https://imgur.com/1usHa29)
+Cart
+![Cart](https://www.dropbox.com/s/f5olanrtrpva548/Screen%20Shot%202018-07-13%20at%209.46.13%20AM.png?raw=1)
 
-### Contents
+## What It Is
 
-### Screenshots
+Time Wise is a travel application that allows users to plan their trips according to the weather in their destination and shop for trip essentials on Amazon all in a simple, easy to use interface.
 
-### What It Is
+## What We Used
 
-### What We Used
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Bootstrap
+- Dark Sky API
+- Amazon API
+- Fareportal API
+- Google geocode API
 
-### Minimum Viable Product
+## Minimum Viable Product
 
-### Our Stretch Goals
+- See the weather of the date picked
+- Select flight for desired txtDestination
+- User can shop on Amazon for trip essentials
 
-### Authors
+## Our Stretch Goals
+
+- User Sign-Up
+- User authentication at sign in
+- More rich flight information and connection flights
+- User can see weather for multiple days of the trip integrated into the date picker.
+- E-receipts
+- Mailing Lists
+- One click Amazon check out and full integration with Amazon API
+
+## Authors
+
+- [Shawn Benny](https://github.com/sbenn9210)
+- [Francisco Duluc](https://github.com/franciscoduluc)
+- [Pratiba Shan](https://github.com/pratibashan)
