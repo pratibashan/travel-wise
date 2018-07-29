@@ -4,7 +4,7 @@
 
 Flight Search
 ![Store Landing Page](https://imgur.com/BAnXRdd.png)
-Weather of Destination
+Forecasted Weather Upon Arrival
 ![Weather of Destination](https://imgur.com/L9gDrei.png)
 Flights
 ![Flights](https://imgur.com/DkkBZ3i.png)
@@ -32,7 +32,7 @@ Time Wise is a travel application that allows users to plan their trips accordin
 ## Minimum Viable Product
 
 - See the weather of the date picked
-- Select flight for desired txtDestination
+- Select flight for desired Destination
 - User can shop on Amazon for trip essentials
 
 ## Our Stretch Goals
@@ -40,7 +40,7 @@ Time Wise is a travel application that allows users to plan their trips accordin
 - User Sign-Up
 - User authentication at sign in
 - More rich flight information and connection flights
-- User can see weather for multiple days of the trip integrated into the date picker.
+- User can see weather for multiple days of the trip integrated into the date picker
 - E-receipts
 - Mailing Lists
 - One click Amazon check out and full integration with Amazon API
